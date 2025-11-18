@@ -34,7 +34,9 @@ app.use(
       process.env.FRONTEND_URL, // keep this one, after checking the value in `backend/.env`
       "http://mysite.com",
       "http://another-domain.com",
-    ]
+      "http://stupeflix.tetardtek.com",
+      "http://31.97.154.126:3000
+      ]
   })
 );
 */
